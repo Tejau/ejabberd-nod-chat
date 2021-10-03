@@ -1,0 +1,22 @@
+{
+  "name": "ejabberd-nod-chat",
+  "version": "1.0.0",
+  "description": "nodejs client for xampp ejabberd server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejau/ejabberd-nod-chat.git"
+  },
+  "author": "Tejau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejau/ejabberd-nod-chat/issues"
+  },
+  "homepage": "https://github.com/Tejau/ejabberd-nod-chat#readme",
+  "dependencies": {
+    "simple-xmpp": "^2.3.1"
+  }
+}

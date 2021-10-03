@@ -1,0 +1,2 @@
+# ejabberd nod chat
+ 

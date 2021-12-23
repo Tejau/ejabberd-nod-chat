@@ -4,8 +4,8 @@ xmpp.on("online",data=>{
 })
 
 function send(){
-    setTimeout(send,5000);
-    xmpp.send("hussain@localhost",`Hi time is ${Date.now()}`)
+    // setTimeout(send,5000);
+    xmpp.send("hussain@localhost",`lets catchup`)
 }
 
 xmpp.on("error", error =>console.log(`something went wrong! ${error}`))
